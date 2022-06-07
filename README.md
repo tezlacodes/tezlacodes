@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tezlacodes
+- 👀 I’m interested in Nix, Python
+- 🌱 I’m currently learning Nix Html, Css, Js, and Python
+- 💞️ I’m looking to collaborate on Discord and Gmail
+- 📫 gmail and discord
